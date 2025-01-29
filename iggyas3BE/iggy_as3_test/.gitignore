@@ -1,0 +1,11 @@
+*.obj
+*.o
+*.bak
+*.log
+*.exe
+*.dll
+*.swf
+*.iggy
+*.abc
+release/
+trash/

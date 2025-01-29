@@ -17,3 +17,19 @@ C:\Users\Carli\Desktop\Repositories\MA-XVTools-PS3\XVToolsBE\CMSTool\obj\Debug\C
 C:\Users\Carli\Desktop\Repositories\MA-XVTools-PS3\XVToolsBE\CMSTool\bin\Debug\CMSTool.exe.config
 C:\Users\Carli\Desktop\Repositories\MA-XVTools-PS3\XVToolsBE\CMSTool\bin\Debug\CMSTool.exe
 C:\Users\Carli\Desktop\Repositories\MA-XVTools-PS3\XVToolsBE\CMSTool\bin\Debug\CMSTool.pdb
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\CMSTool\bin\Debug\CMSTool.exe.config
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\CMSTool\bin\Debug\CMSTool.exe
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\CMSTool\bin\Debug\CMSTool.pdb
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\CMSTool\obj\Debug\CMSTool.csproj.AssemblyReference.cache
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\CMSTool\obj\Debug\CMSTool.Form1.resources
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\CMSTool\obj\Debug\CMSTool.Properties.Resources.resources
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\CMSTool\obj\Debug\CMSTool.csproj.GenerateResource.cache
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\CMSTool\obj\Debug\CMSTool.csproj.CoreCompileInputs.cache
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\CMSTool\obj\Debug\CMSTool.exe
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\CMSTool\obj\Debug\CMSTool.pdb
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\XVToolsBE\!_TOOL BUILDS_!\CMSTool.exe.config
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\XVToolsBE\!_TOOL BUILDS_!\CMSTool.exe
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\XVToolsBE\!_TOOL BUILDS_!\CMSTool.pdb
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\!_TOOL BUILDS_!\CMSTool.exe.config
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\!_TOOL BUILDS_!\CMSTool.exe
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\!_TOOL BUILDS_!\CMSTool.pdb

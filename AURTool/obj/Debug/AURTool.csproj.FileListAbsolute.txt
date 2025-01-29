@@ -1,0 +1,13 @@
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\AURTool\bin\Debug\AURTool.exe.config
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\AURTool\bin\Debug\AURTool.exe
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\AURTool\bin\Debug\AURTool.pdb
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\AURTool\obj\Debug\AURTool.csproj.AssemblyReference.cache
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\AURTool\obj\Debug\AURTool.Form1.resources
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\AURTool\obj\Debug\AURTool.Properties.Resources.resources
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\AURTool\obj\Debug\AURTool.csproj.GenerateResource.cache
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\AURTool\obj\Debug\AURTool.csproj.CoreCompileInputs.cache
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\AURTool\obj\Debug\AURTool.exe
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\AURTool\obj\Debug\AURTool.pdb
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\!_TOOL BUILDS_!\AURTool.exe.config
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\!_TOOL BUILDS_!\AURTool.exe
+C:\Users\Carli\Desktop\Repositories\XVToolsBE\!_TOOL BUILDS_!\AURTool.pdb
